@@ -1,0 +1,2 @@
+# Melanoma Segmentation
+This project aims to identify melanoma area in dermoscopic images. I experimented with pretrained segmentation model (FCN and DeepLab V3), FrCN and U-Net and trained them by [PH2 Dataset](https://www.fc.up.pt/addi/ph2%20database.html). For details, please refer to `report.pdf`. 
